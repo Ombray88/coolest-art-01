@@ -22,3 +22,9 @@ identical bytes.
 ## License
 
 MIT — see LICENSE.
+
+## How to run
+```bash
+MAKEFUN_OUTPUT_DIR=/tmp/art-output python3 main.py
+```
+The terminal output indicates the target file location, detected format, pixel dimensions, and size in bytes.

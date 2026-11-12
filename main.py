@@ -19,6 +19,7 @@ import struct
 import sys
 from pathlib import Path
 
+# Majestic celestial tortoise bearing a luminous metropolis through golden dusk skies.
 # Gate limits from the competition rules (RULES.txt).
 MAX_BYTES = 1_048_576
 MAX_WIDTH = 1024
@@ -55,6 +56,7 @@ def _jpeg_dimensions(data):
     raise ValueError("not a JPEG: no SOF marker found")
 
 
+# Ensure the provided artwork meets all size, format, and dimension restrictions.
 def validate_art(data):
     """Check the art against the gate; return (format, width, height)."""
     if len(data) > MAX_BYTES:
@@ -70,6 +72,7 @@ def validate_art(data):
     return fmt, width, height
 
 
+# Coordinate validation and safe deployment of the entry image asset to the target output directory.
 def main():
     source = Path(__file__).resolve().parent / SOURCE_NAME
     output_dir = Path(os.environ.get("MAKEFUN_OUTPUT_DIR", "/output"))
