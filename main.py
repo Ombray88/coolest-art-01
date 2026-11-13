@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""coolest-art-01 entry: write the Watering the Stars art to /output/entry.png.
+"""coolest-art-01 entry: write the Chiseling the Star art to /output/entry.png.
 
 The art is the entry.png beside this file. Per the competition rules the
 name stays entry.png whether the bytes are a PNG or a JPEG, and the file is
@@ -7,11 +7,10 @@ told apart by its first bytes. This program validates the art (whole file,
 at most 1 MiB, at most 1024 by 1024 pixels) and copies it byte-for-byte, so
 both grader runs write identical bytes. Standard library only.
 
-Art: "Watering the Stars" — a ukiyo-e Japanese woodblock print of a tiny gardener
-in indigo kimono on a tall bamboo ladder, watering giant glowing golden
-star-flowers with a brass watering can, under a deep navy night sky, with
-a red paper lantern. One clear focal point, a rich indigo and warm amber
-palette, and a composition that still reads at 300 pixels across.
+Art: "Chiseling the Star" — a ukiyo-e Japanese woodblock print of a tiny sculptor
+in indigo kimono chiseling a giant glowing golden star out of a huge block of
+dark night stone, golden chips flying, under a deep navy night sky, with a
+red paper lantern.
 """
 
 import os
@@ -19,9 +18,11 @@ import struct
 import sys
 from pathlib import Path
 
-# Solitary botanical caretaker tending celestial flora under a tranquil starlit expanse.
-# Quiet twilight radiance illuminates midnight petals beneath suspended cosmic blossoms.
-# Handcrafted wooden ladder reaching up toward gleaming constellations in the midnight blue.
+# Meticulous artisan shaping raw stellar ore in the silent midnight hours.
+# Crimson paper lanterns casting a gentle glow over flying metallic debris.
+# Massive basalt monoliths yielding luminous amber fragments under precise strikes.
+# Searing topaz sparks shatter the velvet void.
+# Tiny hands liberate radiant celestial fire from ancient obsidian.
 # Gate limits from the competition rules (RULES.txt).
 MAX_BYTES = 1_048_576
 MAX_WIDTH = 1024

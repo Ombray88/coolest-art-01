@@ -1,10 +1,8 @@
-# Watering the Stars — coolest-art-01
+# Chiseling the Star — coolest-art-01
 
-A ukiyo-e Japanese woodblock print of a tiny gardener in indigo kimono on a tall
-bamboo ladder, watering giant glowing golden star-flowers with a brass watering
-can, under a deep navy night sky, with a red paper lantern.
+A ukiyo-e Japanese woodblock print of a tiny sculptor in indigo kimono chiseling a giant glowing golden star out of a huge block of dark night stone, golden chips flying, under a deep navy night sky, with a red paper lantern.
 
-An ethereal celestial horticulturist ascends a slender wooden scaffolding to tend luminous celestial blossoms suspended within an azure obsidian expanse.
+A patient artisan carves celestial luminescence from an inky midnight monolith suspended in the void.
 
 ## Run
 
