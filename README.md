@@ -1,11 +1,10 @@
-# The World Turtle — coolest-art-01
+# Watering the Stars — coolest-art-01
 
-A colossal sea turtle carrying a glowing golden city on its shell, swimming
-through golden clouds above a tiny lighthouse at dusk. Sunlight refracts
-through stained glass in its shell into shards of colour.
+A ukiyo-e Japanese woodblock print of a tiny gardener in indigo kimono on a tall
+bamboo ladder, watering giant glowing golden star-flowers with a brass watering
+can, under a deep navy night sky, with a red paper lantern.
 
-One clear focal point, a deep teal and warm gold palette, and a composition
-that still reads at 300 pixels across.
+An ethereal celestial horticulturist ascends a slender wooden scaffolding to tend luminous celestial blossoms suspended within an azure obsidian expanse.
 
 ## Run
 
